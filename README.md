@@ -17,16 +17,16 @@ As anticipated, there is an increase in demand during the Summer. In the US, tra
 While, the traffic is seasonal, comparing international vs domestic traffic shows a different picture. International traffic stays almost flat throughout the year. 
 
 # Comparison of International and Domestic
-![Total Domestic Passengers by Year at SFO][charts/yearly_dom_sum_bar.png]
+![Total Domestic Passengers by Year at SFO](charts/yearly_dom_sum_bar.png)
 Domestic traffic pattern looks a lot similar to that of overall traffic. It is because of the majority of the flights being domestic. 
-![Total International Passengers by Year at SFO][charts/yearly_intl_sum_bar.png]
+![Total International Passengers by Year at SFO](charts/yearly_intl_sum_bar.png)
 The total international passengers decrease per month until 2009 and then increases again. There was a dip in international passenger traffic and it has been growing steadily since 2011.
 
 # International Deep Dive - Australia
-![Total Passengers by Year between Australia and SFO][charts/yearly_aust_sum_bar.png]
+![Total Passengers by Year between Australia and SFO](charts/yearly_aust_sum_bar.png)
 Australia has had less passengers from 2006 to 2016. The total passengers roughly decreases until 2010 and increases from then on, up to more than the beginning.
 
-![Total Monthly Passengers between Australia and SFO][charts/Aust_sfo_mon.png]
+![Total Monthly Passengers between Australia and SFO](charts/Aust_sfo_mon.png)
 The sum of passengers in Australia decreases roughly up to May, and then increases to an intermediate number in July. The total monthly passengers stay low until November and increase by December.
 
 The data for United Airlines was split into statistics until and after 2013 respectively, so I tested data for after 2013. What is now United Airlines is the most popular, followed by Air New Zealand. After Qantas Airways, there are very little passengers that travel here. 
