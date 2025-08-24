@@ -11,8 +11,14 @@ This report is based on the Airport data set, a record of monthly passenger acti
 4.	The passengers generally decreased until around 2009 and increased from then on to a higher number. There was possibly a link between the passenger trend and the ongoing economic downturn in 2008/2009.
 
 # ANALYSIS:
-
+# Seasonality (General)
+As anticipated, there is an increase in demand during the Summer. In the US, traffic peaks in July and February has been the lowest monthly traffic. February consistently sees the lowest traffic, partly due to being a shorter month. 
 ![Overall Traffic at SFO](charts/02_seasonal_patterns.png)
+While, the traffic is seasonal, comparing international vs domestic traffic shows a different picture. International traffic stays almost flat throughout the year. 
+
+# Comparison of International and Domestic
+Domestic traffic pattern looks a lot similar to that of overall traffic. It is because of the majority of the flights being domestic. 
+
 
 # CONCLUSION
 1.	The measurements explained that most of the flights are domestic.
