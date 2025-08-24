@@ -11,7 +11,11 @@ This report is based on the Airport data set, a record of monthly passenger acti
 4.	The passengers generally decreased until around 2009 and increased from then on to a higher number. There was possibly a link between the passenger trend and the ongoing economic downturn in 2008/2009.
 
 # ANALYSIS:
-# Seasonality (General)
+# Traffic Growth
+The passenger traffic has been steadily increasing over the years, except for 2008-2009 where the growth stalled likely from Economic conditions.  See the chart below for the trend.
+![Total Passengers by Year at SFO](charts/yearly_patterns.png)
+
+# Seasonality 
 As anticipated, there is an increase in demand during the Summer. In the US, traffic peaks in July and February has been the lowest monthly traffic. February consistently sees the lowest traffic, partly due to being a shorter month. 
 ![Overall Traffic at SFO](charts/02_seasonal_patterns.png)
 While, the traffic is seasonal, comparing international vs domestic traffic shows a different picture. International traffic stays almost flat throughout the year. 
@@ -35,13 +39,3 @@ The data for United Airlines was split into statistics until and after 2013 resp
 January:	716,866
 December:	684,652
 July:	604,845
-
-# CONCLUSION
-1.	The measurements explained that most of the flights are domestic.
-a.	From information of the flights between Australia and SFO, international flights must have become less popular in the late 2000s.  
-2.	With the information limited to passengers, the year with most flights turns out to be recent.
-a.	Though there were more and more passengers more after that, there is not enough proof that the next year will be the best to fly.
-b.	But from the data alone, it can be concluded that 2018 or 2019 would be the best year to take a flight,
-3.	This report proves what is believed to be the most appropriate time to take a flight.
-a.	From the evidence of one region (Australia), I have compared the airlines by its popularity. I have answered the question of choosing “the best” or appropriate airline to go to Australia. 
-b.	To answer the question of the most appropriate airline in general, I need to examine the airlines managing general flights to and from SFO.
